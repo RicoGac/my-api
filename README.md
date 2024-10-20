@@ -9,11 +9,11 @@ Cette API permet de sauvegarder et de récupérer des données d'un formulaire. 
 1. Clonez le dépôt :
 
 ``` git 
-git clone <URL_DU_DEPOT>
+git clone https://github.com/RicoGac/my-api.git
 ```
 
 ``` git 
-cd <NOM_DU_DEPOT>
+cd my-api
 ```
 
 2. Installez les dépendances :
@@ -24,7 +24,7 @@ npm install
 
 ## Utilisation
 
-1. Démarrez le serveur :```
+1. Démarrez le serveur :
 
 ``` 
 node app.js
